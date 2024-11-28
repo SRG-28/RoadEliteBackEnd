@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Lamborghini",
+    "country": "Italy",
+    "founded_year": 1963,
+    "description": "A luxury sports car manufacturer known for producing high-performance, exotic supercars.",
+    "logo": "manufacturers/lamborghini-logo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ferrari",
+    "country": "Italy",
+    "founded_year": 1939,
+    "description": "An iconic brand in motorsport and luxury supercars, known for its prancing horse emblem.",
+    "logo": "manufacturers/ferrari-logo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Porsche",
+    "country": "Germany",
+    "founded_year": 1931,
+    "description": "A high-performance automaker famous for its 911 model and engineering excellence.",
+    "logo": "manufacturers/porsche-logo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "McLaren",
+    "country": "United Kingdom",
+    "founded_year": 1963,
+    "description": "A leading name in Formula 1 and road-going supercars, known for cutting-edge technology.",
+    "logo": "manufacturers/mclaren-logo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bugatti",
+    "country": "France",
+    "founded_year": 1909,
+    "description": "A legendary manufacturer producing some of the fastest and most luxurious hypercars in the world.",
+    "logo": "manufacturers/bugatti-logo.jpg"
+  }
+]

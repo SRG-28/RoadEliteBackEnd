@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Filippo Perini",
+    "nationality": "Italian",
+    "born_year": 1973,
+    "description": "Former chief designer for Lamborghini, known for creating iconic models like the Aventador and Huracán.",
+    "image": "designers/filippo-perini.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Flavio Manzoni",
+    "nationality": "Italian",
+    "born_year": 1965,
+    "description": "Ferrari’s chief designer responsible for creating masterpieces like the LaFerrari and F12 Berlinetta.",
+    "image": "designers/flavio-manzoni.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Michael Mauer",
+    "nationality": "German",
+    "born_year": 1962,
+    "description": "Head of design at Porsche, known for shaping the modern evolution of the iconic 911.",
+    "image": "designers/michael-mauer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Frank Stephenson",
+    "nationality": "American",
+    "born_year": 1959,
+    "description": "Former McLaren designer responsible for the P1 and other groundbreaking supercars.",
+    "image": "designers/frank-stephenson.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Achim Anscheidt",
+    "nationality": "German",
+    "born_year": 1967,
+    "description": "Head of design at Bugatti, overseeing the creation of models like the Veyron and Chiron.",
+    "image": "designers/achim-anscheidt.jpg"
+  }
+]
